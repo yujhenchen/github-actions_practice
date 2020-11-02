@@ -1,4 +1,4 @@
-# cicd_pipeline-project
+# github-actions_practice
 
 This is a practice project of Github Actions. Source codes of this project: [nanuchi](https://github.com/nanuchi/my-project)
 
